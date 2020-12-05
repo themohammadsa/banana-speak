@@ -96,8 +96,8 @@ body {
     background-color: var(--yellow300);
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
-    border-top: 5px solid black;   
-    position: absolute;
+    border-top: 5px solid black;
+    position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
@@ -109,7 +109,7 @@ body {
     margin: auto;
     margin-bottom: 1%;
     font-family: 'Baloo 2', cursive;
-    padding: 0% 2.5%;
+    padding: 0rem 1rem;
 }
 
 .footer-heading {
